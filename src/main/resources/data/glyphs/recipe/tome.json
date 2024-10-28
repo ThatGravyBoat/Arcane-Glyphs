@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "tag": "c:feathers"
+        },
+        {
+            "tag": "c:gems/prismarine"
+        },
+        {
+            "tag": "c:rods/blaze"
+        },
+        {
+            "tag": "minecraft:flowers"
+        },
+        {
+            "item": "minecraft:book"
+        }
+    ],
+    "result": {
+        "id": "glyphs:tome"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "tech.thatgravyboat.glyphs.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "glyphs.refmap.json",
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

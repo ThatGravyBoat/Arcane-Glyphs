@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "ARR"
+
+[[mods]]
+    modId = "glyphs"
+    version = "${version}"
+    displayName = "Arcane Glyphs"
+    authors = "ThatGravyBoat"
+    description = "Form glyphs to cast spells"
+    credits = "Book Item by M1lkys & CallMeBellz"
+
+[[mixins]]
+    config = "glyphs.mixins.json"

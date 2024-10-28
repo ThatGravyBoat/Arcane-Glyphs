@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "glyphs:item/tome/base"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "glyphs:type": 1
+            },
+            "model": "glyphs:item/tome_fire"
+        },
+        {
+            "predicate": {
+                "glyphs:type": 2
+            },
+            "model": "glyphs:item/tome_water"
+        },
+        {
+            "predicate": {
+                "glyphs:type": 3
+            },
+            "model": "glyphs:item/tome_earth"
+        },
+        {
+            "predicate": {
+                "glyphs:type": 4
+            },
+            "model": "glyphs:item/tome_air"
+        }
+    ]
+}

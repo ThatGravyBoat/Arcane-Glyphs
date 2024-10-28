@@ -1,0 +1,23 @@
+{
+    "glyphs.form_glyph_disabled": "Unable to find glyph to form",
+    "glyphs.form_glyph": "Form %s Glyph",
+    "glyphs.not_enough_xp": "Not enough XP to cast",
+
+    "item.glyphs.tome": "Glyph Tome",
+    "item.glyphs.tome.with_glyph": "Glyph Tome (%s)",
+    "glyphs.item.cost": "Cost:",
+    "glyphs.item.no_glyph": "No Glyph",
+
+    "glyph.glyphs.fire": "Fire",
+    "glyph.glyphs.fire.description": "Ignite fire from your hands",
+    "glyph.glyphs.growth": "Growth",
+    "glyph.glyphs.growth.description": "Grow plants and crops",
+    "glyph.glyphs.light": "Light",
+    "glyph.glyphs.light.description": "Create light from your fingertips",
+    "glyph.glyphs.fireball": "Fireball",
+    "glyph.glyphs.fireball.description": "Launch a fireball at your enemies",
+    "glyph.glyphs.rain": "Rain",
+    "glyph.glyphs.rain.description": "Summon rain to water your crops",
+    "glyph.glyphs.thunder": "Thunder",
+    "glyph.glyphs.thunder.description": "Summon a bolt of lightning"
+}
